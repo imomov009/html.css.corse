@@ -1,0 +1,20 @@
+.logo{
+  margin-left: 100px;
+}
+
+.Rectangle-png{
+  width: 800px;
+  
+}
+.buy-button{
+  border: none;
+  background-color:#4295E4;
+  color: white;
+  width: 200px;
+  height: 50px;
+  margin-left: 5px;
+  cursor: pointer;
+}
+.buy-button:active{
+  opacity: 0.8;
+}
