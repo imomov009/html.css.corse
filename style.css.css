@@ -1,0 +1,41 @@
+body{
+  background-image: url(images/background-destination-desktop.468b922c69bf5499b4bc.jpg);
+}
+
+
+.moon-picture{
+  display: flex;
+  flex-direction: row;
+  padding-top: 300px;
+  height: auto;
+    max-width: 100%;
+    width: 445px;
+  
+}
+.moon{
+  height: auto;
+    max-width: 100%;
+    width: 445px
+}
+.moon-text{
+  color: #fff;
+    font-family: Barlow Condensed;
+    font-size: min(28px, 2.6vw);
+    font-style: normal;
+    font-weight: 400;
+    
+    
+    
+}
+.planet-name{
+
+}
+.lower-text{
+  color: #d0d6f9;
+    font-family: Barlow;
+    font-size: 18px;
+    line-height: 32px;
+    margin-bottom: 54px;
+    max-width: 444px;
+    min-height: 160px;
+}

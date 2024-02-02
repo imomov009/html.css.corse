@@ -1,0 +1,137 @@
+body{
+  background-image: url(images/background-home-desktop.cdf3864ecbfdf20e8c3b.jpg);
+  background-size: cover;
+}
+
+.header{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: 100%;
+    
+}
+
+.left-section{
+  padding-left: 70px;
+  flex: 2px;
+  padding-bottom: 30px;
+}
+
+
+.right-section{
+ color: white;
+  flex: 3px;
+  margin-top: 20px;
+  padding-bottom: 60px;
+  backdrop-filter: blur(40px);
+    border-bottom: 3px solid transparent;
+    font-family: Barlow Condensed, sans-serif;
+    font-size: 16px;
+    letter-spacing: 2.7px;
+    align-items: center;
+    align-items: center;
+      border-bottom: 3px solid transparent;
+      display: flex;
+      font-family: Barlow Condensed, sans-serif;
+      font-size: 16px;
+      letter-spacing: 2.7px;
+    
+}
+
+.home-text2{
+  display: flex;
+  height: 100%;
+  align-items: center;
+  
+  
+}
+.img-home{
+  width: 100%;
+    height: 100%;
+}
+.home-text{
+  color: white;
+  box-sizing: border-box;
+  margin-bottom: 141px;
+  max-width: 445px;
+  align-items: flex-end;
+    justify-content: center;
+    margin-left: 30px;
+    display: flex;
+      flex-grow: 1;
+      width: 100%;
+    
+    bottom: 8px;
+    left: 16px;
+  display: block;
+  box-sizing: border-box;
+  margin-left: 200px;
+  color: #d0d6f9;
+    font-family: Barlow Condensed, sans-serif;
+    font-size: min(28px, 3vw);
+    letter-spacing: 4.725px
+}
+
+.button-div{
+  margin-left: 200px;
+  align-items: center;
+    background-color: #fff;
+    color: #0b0d17;
+    display: flex;
+    font-family: Bellefair, sans-serif;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    justify-content: center;
+    letter-spacing: 2px;
+    line-height: normal;
+    border-radius: 50%;
+      height: 274px;
+      width: 274px;
+      border: none;
+      margin-left: 300px;
+      
+    }
+
+
+.explore-button:hover{
+
+ 
+
+}
+ .body-div{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding-top: 100px;
+ }
+
+ .upper-text{
+  color: #d0d6f9;
+    font-family: Barlow Condensed, sans-serif;
+    font-size: min(28px, 3vw);
+    letter-spacing: 4.725px
+    
+  }
+  
+
+    
+  
+ 
+ .big-text{
+  color: #fff;
+    font-family: Bellefair;
+    font-size: min(150px, 25vw);
+    font-style: normal;
+    font-weight: 400;
+    line-height: 100%
+ }
+ .lower-text{
+  color: #d0d6f9;
+    font-family: Barlow;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px
+ }
